@@ -1,0 +1,20 @@
+Git
+
+git init
+
+git status
+
+README.md
+This is a file you will see in many repos to describe what the repo is for
+
+
+
+
+
+
+
+
+
+
+
+
