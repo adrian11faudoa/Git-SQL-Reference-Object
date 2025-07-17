@@ -44,3 +44,5 @@ git rebase --interactive --root
 git remote add origin <link>
 git remote -v
 git remote set-url <new_link>
+
+git push --force origin main
